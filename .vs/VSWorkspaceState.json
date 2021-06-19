@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Angular2Demo",
+    "\\Angular2Demo\\Angular2Demo",
+    "\\Angular2Demo\\packages"
   ],
+  "SelectedNode": "\\Angular2Demo\\Angular2Demo",
   "PreviewInSolutionExplorer": false
 }
